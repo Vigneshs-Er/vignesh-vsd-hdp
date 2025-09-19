@@ -8,4 +8,7 @@ week 0 assignment for VSD, installation of tools inmlinux ubuntu 22 version, too
 ![Yosys Installation](https://github.com/Vigneshs-Er/vignesh-vsd-hdp/blob/main/Images/Screenshot%20from%202025-09-19%2014-07-20.png)
 
 ##2.Iverilog installation Check
-![Iverilog Installation}(
+![Iverilog Installation](https://github.com/Vigneshs-Er/vignesh-vsd-hdp/blob/main/Images/Screenshot%20from%202025-09-19%2014-07-52.png)
+
+##3.GTK wave installation check
+![GTK WAVE installation check](
