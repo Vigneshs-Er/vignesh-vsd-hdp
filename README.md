@@ -11,4 +11,7 @@ week 0 assignment for VSD, installation of tools inmlinux ubuntu 22 version, too
 ![Iverilog Installation](https://github.com/Vigneshs-Er/vignesh-vsd-hdp/blob/main/Images/Screenshot%20from%202025-09-19%2014-07-52.png)
 
 ##3.GTK wave installation check
-![GTK WAVE installation check](
+![GTK WAVE installation check](https://github.com/Vigneshs-Er/vignesh-vsd-hdp/blob/main/Images/Screenshot%20from%202025-09-19%2014-08-15.png)
+
+##4.AND gate simulation using GTK WAVE check
+![AND GATE SIMULATION USING GTK WAVE}(
