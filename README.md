@@ -14,4 +14,12 @@ week 0 assignment for VSD, installation of tools inmlinux ubuntu 22 version, too
 ![GTK WAVE installation check](https://github.com/Vigneshs-Er/vignesh-vsd-hdp/blob/main/Images/Screenshot%20from%202025-09-19%2014-08-15.png)
 
 ##4.AND gate simulation using GTK WAVE check
-![AND GATE SIMULATION USING GTK WAVE}(
+![AND GATE SIMULATION USING GTK WAVE](https://github.com/Vigneshs-Er/vignesh-vsd-hdp/blob/main/Images/Screenshot%20from%202025-09-19%2014-06-03.png)
+
+******************************************************
+INSTALLATION OF SUGGESTED TOOLS COMPLETED SUCCESSFULLY
+******************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++
+ASSIGNMENT 0- COMPLETED SUCCESSFULLY
++++++++++++++++++++++++++++++++++++++++++++++++
