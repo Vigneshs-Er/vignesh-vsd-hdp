@@ -1,9 +1,9 @@
-### vignesh-vsd-hdp
-# Week 0 Assignment – Tool Installation (VSD Program)
+# vignesh-vsd-hdp
+## Week 0 Assignment – Tool Installation (VSD Program)
 
 ### This repository documents the installation and verification of essential open-source tools required for hardware design and verification as part of the VSD (VLSI System Design) training program.
 
-# The tools were installed on Ubuntu 22.04 LTS (Linux).
+#### The tools were installed on Ubuntu 22.04 LTS (Linux).
 
 Tools Installed:
 
@@ -55,4 +55,4 @@ To validate the toolchain, a simple AND gate Verilog design was simulated using 
 
 All three tools (Yosys, Iverilog, GTKWave) were successfully installed, verified, and tested on Ubuntu 22.04. The AND gate simulation confirms the environment setup is working as expected.
 
-# ✨ Assignment 0 – Completed Successfully ✨
+  #                     ✨ Assignment 0 – Completed Successfully ✨
